@@ -5,4 +5,3 @@ Date   :   29-08-2021   [ Sunday ]
 3. Fractal                           --------->              Data Scientist, Machine Learning
 4. Myntra                          --------->              Data Analyst
 5. ATONARP                     --------->              Associate Data Scientist
-  
